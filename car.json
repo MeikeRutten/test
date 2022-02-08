@@ -6,7 +6,7 @@
         "suitcases": 1,
         "comfort": "Low",
         "priceperday": 100,
-        "image": "budgetcar.jpg"
+        "image": "suzuki.jpg"
     },
     {
         "brand": "Volkswagen Golf",
@@ -15,7 +15,7 @@
         "suitcases": 3,
         "comfort": "Medium",
         "priceperday": 160,
-        "image": "standardcar.jpg"
+        "image": "mazda.jpg"
     },
     {
         "brand": "Dacia Logan",
@@ -24,6 +24,6 @@
         "suitcases": 4,
         "comfort": "High",
         "priceperday": 205,
-        "image": "minivancar.jpg"
+        "image": "citroen.jpg"
     }
 ]
